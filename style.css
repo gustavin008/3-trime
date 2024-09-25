@@ -1,0 +1,28 @@
+
+body{
+     background-color: azure;
+}
+ h3 { 
+    color: aquamarine;
+ }
+ #mine{
+    text-align: center;
+    border-style: groove;
+    border-width: 2%;
+    border-color: cornflowerblue;
+    width: 50%;
+    margin-left: 20%;
+
+
+ }
+
+   #mine2
+   { 
+     width: 50%; 
+     margin-left: 20%;
+     border-style: groove;
+     border-width: 75%;
+     border-color: darkgrey;
+   }
+
+   #
